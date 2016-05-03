@@ -1,10 +1,2 @@
 
-
-
-
-
-
-sec sec sce
-#comment
-
-text for first branch, independent
+second
