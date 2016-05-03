@@ -3,7 +3,13 @@ first
 
 
 
+<<<<<<< HEAD
 first
+=======
+
+
+sec sec sce
+>>>>>>> 2nd-branch
 #comment
 
 text for first branch, independent
