@@ -1,3 +1,4 @@
-
 first branch
 #comment
+
+text for first branch, independent
